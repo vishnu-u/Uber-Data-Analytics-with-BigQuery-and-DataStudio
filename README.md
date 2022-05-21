@@ -9,4 +9,5 @@ Visualization and Analysis of Uber New York Data using BigQuery and Data Studio
   
  
 <b>Deployment : </b><br />
-  <p>Extract the Dataset.rar to the current folder and run preprocess.ipynb file. For performing Analytics, follow the procedure in my <a href="https://medium.com/@vish0399/uber-data-analytics-with-bigquery-and-datastudio-1cd9e4c91f7a" target="_blank">article</a> on <a href="www.medium.com" target="_blank">Medium.com</a> </p>
+  <p>Extract the Dataset.rar to the current folder and run preprocess.ipynb file. For performing Analytics, follow the procedure in my <a href="https://medium.com/@vish0399/uber-data-analytics-with-bigquery-and-datastudio-1cd9e4c91f7a" target="_blank">article</a> on <a href="www.medium.com" target="_blank">Medium.com</a> </p> 
+ <p>Link to Dashboard : https://datastudio.google.com/reporting/dbe10b3a-63bf-4efd-af15-6f0f324130c5</p>
